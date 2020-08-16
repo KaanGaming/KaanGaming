@@ -20,4 +20,4 @@ That's all I can offer, so ye... Have fun!
 
 ---
 
-*([shh, secret link!](https://stickbugged.com))
+*([shh, secret link!](https://stickbugged.com))*
