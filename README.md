@@ -1,4 +1,4 @@
-[![](https://img.shields.io/badge/see-jsonsummary-yellow)](https://www.github.com/KaanGaming/jsonsummary)
+[![](https://img.shields.io/badge/see-jsonsummarizer-yellow)](https://www.github.com/KaanGaming/jsonsummarizer)
 
 ![](https://img.shields.io/badge/i%20code%20in-c%23-purple) ![](https://img.shields.io/badge/i%20code%20in-javascript-yellow)
 
