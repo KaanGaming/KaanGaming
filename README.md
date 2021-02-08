@@ -1,5 +1,3 @@
-i am not playing anything because i am kaangeymin and everyone knows that
+Hello there! I am a developer and I develop programs in C# and JavaScript. I usually develop small projects, but I'm also focusing on [an adequate project right now.](https://www.github.com/KaanGaming/jsonsummarizer)
 
-kaangeymin is a legendary title who has received 2 warnings in a server, and codes in C#, and doesn't play anything
-
-no one has this title other than me
+I also use other libraries for developing stuff too. One of them is [Express.js](http://expressjs.com/).
