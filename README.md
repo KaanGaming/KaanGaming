@@ -1,4 +1,4 @@
-random person on the internet who makes hollow knight mods
+random person on the internet who makes things no one asked for
 
 projects:
 - [Aspidnest](https://github.com/KaanGaming/Aspidnest), a mod that adds not only Primal Aspids, but Crystal Hunters, Loodles, and many others. Successor to the famous Path of Aspid mod.
