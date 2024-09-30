@@ -1,3 +1,9 @@
+## IMPORTANT
+
+If you report an issue on one of my repos or just want to report a bug or suggest feature / pull request, ***please contact me through my Discord***. Any irrelevant messages will probably be ignored and spam will be blocked.
+
+---
+
 random person on the internet who makes things no one asked for
 
 my discord is @kaangaming
