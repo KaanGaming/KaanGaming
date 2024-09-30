@@ -2,6 +2,8 @@ random person on the internet who makes things no one asked for
 
 my discord is @kaangaming
 
+my [itch.io](https://kaangamgimginn.itch.io/undertale-aegis) is [@kaangamgimginn](https://kaangamgimginn.itch.io/undertale-aegis)
+
 projects:
 - [Aspidnest](https://github.com/KaanGaming/Aspidnest), a mod that adds not only Primal Aspids, but Crystal Hunters, Loodles, and many others. Successor to the famous Path of Aspid mod.
 - [Discord Rich Presence](https://github.com/KaanGaming/HollowKnightDRPC), a mod that adds a detailed game status to your Discord profile.
